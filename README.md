@@ -1,6 +1,6 @@
 ### Hello there 👋, I'm Francisco Amador + Software Engineer + Passionate Programmer
 
-<p> <img src="https://github.com/frakopy/frakopy/blob/main/binary.gif" alt="gif-img"> </p>
+<p> <img src="https://github.com/frakopy/frakopy/blob/main/binary.gif" alt="gif-img" width="100px"> </p>
 
 <!--
 **frakopy/frakopy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
