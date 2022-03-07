@@ -1,6 +1,6 @@
 ### Hello there 👋, I'm Francisco Amador
 
-I'm full stack dev building tools for humans. I'm a passionate programmer that enjoy learning and
+As a full stack developer building tools for humans. I'm a passionate programmer that enjoy learning and
 sharing my knowledge with others.
 
 <p> <img src="https://github.com/frakopy/frakopy/blob/main/binary.gif" alt="gif-img" width="70%"> </p>
