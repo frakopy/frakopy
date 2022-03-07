@@ -1,6 +1,6 @@
 ### Hello there 👋, I'm Francisco Amador + Software Engineer + Passionate Programmer
 
-<iframe src="https://giphy.com/embed/OWgDiFQbtizpdLewE5" width="480" height="340" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/KeepCoding-code-programmer-programacion-OWgDiFQbtizpdLewE5">via GIPHY</a></p>
+<p> <img src="https://giphy.com/embed/OWgDiFQbtizpdLewE5" alt="code-gif"> </p>
 
 <!--
 **frakopy/frakopy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
