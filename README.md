@@ -1,7 +1,6 @@
-### Hello there 👋, I'm Francisco Amador
+### Hello there 👋, I'm Francisco Bojorque
 
-As a Software developer building tools for humans. I'm a passionate programmer that enjoy learning and
-sharing my knowledge with others.
+I am a passionate and dedicated developer who is constantly striving for excellence in my work. I have a strong attention to detail and a great sense of design, which is reflected in the clean and efficient code I write. My projects are a testament to my skills and my commitment to the craft of programming. I believe that code should not only be functional but also readable and maintainable, and I always strive to achieve this balance in my work. If you're looking for a top-notch developer who is committed to delivering high-quality results, I'm the one for you!
 
 Below is the URL of my portfolio if You want to check it:
 
