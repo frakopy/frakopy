@@ -6,7 +6,7 @@ Below is the URL of my portfolio if You want to check it:
 
 https://francodev-portfolio.netlify.app/
 
-<p> <img src="https://github.com/frakopy/frakopy/blob/main/binary.gif" alt="gif-img" width="70%"> </p>
+<p> <img src="https://github.com/frakopy/frakopy/blob/main/futuristic.png" alt="gif-img" width="50%"> </p>
 
 - 🔭 I’m currently working on a Telecom Company (Millicom International)
 - 👯 I’m looking to collaborate on a company that offers me new challenges
