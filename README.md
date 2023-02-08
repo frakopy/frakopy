@@ -10,7 +10,7 @@ https://francodev-portfolio.netlify.app/
 
 - 🔭 I’m currently working on a Telecom Company (Millicom International)
 - 👯 I’m looking to collaborate on a company that offers me new challenges
-- 💬 Ask me about JavaScript, HTML, CSS, Python, SQL
+- 💬 Ask me about JavaScript, HTML, CSS, Python, Django, SQL, PostgreSQL
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Soccer
 
